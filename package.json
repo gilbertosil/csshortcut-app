@@ -1,0 +1,24 @@
+{
+  "name": "csshortcut-app",
+  "version": "0.1.0",
+  "description": "[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/gilbertosil/csshortcut-app/blob/master/LICENSE.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilbertosil/csshortcut-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilbertosil/csshortcut-app/issues"
+  },
+  "homepage": "https://github.com/gilbertosil/csshortcut-app#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.6.0"
+  }
+}
